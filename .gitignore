@@ -1,0 +1,10 @@
+graph
+*.o
+*.out
+*.exe
+*.log
+*.tmp
+*.swp
+*.bak
+*.dSYM/
+*.DS_Store 
