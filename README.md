@@ -1,6 +1,6 @@
 <h1 align="center">ASCII Graph Plotter — Polish Notation</h1>
 <p align="center">
-  low-level C&nbsp;• обратная польская • графика в терминале
+  C&nbsp;• обратная польская нотация • графика в терминале
 </p>
 
 ---
